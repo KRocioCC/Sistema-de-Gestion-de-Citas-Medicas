@@ -1,0 +1,19 @@
+.content-header h1 {
+    font-size: 36px; /* Ajusta el tamaño según tus necesidades */
+    text-align: center; /* Centra el texto */
+}
+
+.content-header .row {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    text-align: center;
+}
+
+.content-header .col-sm-6 {
+    flex: 1; /* Hace que ambas columnas ocupen el mismo espacio */
+}
+
+.breadcrumb {
+    justify-content: center; /* Centra el breadcrumb */
+}
